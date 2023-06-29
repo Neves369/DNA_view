@@ -7,18 +7,13 @@ WIDTH = 800
 HEIGHT = 600
 
 BLACK = (0, 0, 0)
-WHITE = (255, 255, 255)
-GREEN = (0, 255, 0)      # Cytosine
-YELLOW = (255, 255, 0)   # Guanine
-RED = (255, 0, 0)        # Adenine
-BLUE = (0, 191, 255)     # Thymine
-
+WHITE = (255, 255, 255)     
 
 dic_cores = {
-    'A': RED,
-    'T': BLUE,
-    'C': GREEN,
-    'G': YELLOW
+    'A': (255, 255, 0),
+    'T': (255, 0, 0) ,
+    'C': (0, 191, 255),
+    'G': (0, 255, 0)
 }
 
 # listar arquivos da pasta data
