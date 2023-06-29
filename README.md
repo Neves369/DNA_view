@@ -1,4 +1,4 @@
-# DNA_view
+# DNA_view (Em Desenvolvimento)
 Aplicação complementar ao [Comparador-de-Genomas](https://github.com/Neves369/Comparador-de-Genomas).
 - Gera uma representação visual de uma sequência de nucleotídeos (Representação de dupla hélice)
 
