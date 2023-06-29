@@ -1,5 +1,5 @@
 # DNA_view
-Aplicação complementar ao Comparador-de-Genomas.
+Aplicação complementar ao [Comparador-de-Genomas](https://github.com/Neves369/Comparador-de-Genomas).
 - Gera uma representação visual de uma sequência de nucleotídeos (Representação de dupla hélice)
 
 ## Primeira versão
@@ -22,9 +22,13 @@ obs.: coloque somente um arquivo, pos o programa pegará o primeiro arquivo que 
 >"Computacionalmente" falando podemos representá-los através de 4 letras: A, T, C ou G.
 >
 >Neste caso esses nucleotídeos são representados por cor também, sendo:
+>
 >Adenina:  🟨
+>
 >Timina:   🟥
+>
 >Citosina: 🟦
+>
 >Guanina:  🟩
 
 
