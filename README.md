@@ -33,8 +33,7 @@ obs.: coloque somente um arquivo, pos o programa pegará o primeiro arquivo que 
 
 
 ### Resutado
-
-
+https://github.com/Neves369/DNA_view/assets/63128431/90412d5d-3105-490e-bdab-bddf996dae50
 
 
 
